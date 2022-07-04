@@ -18,8 +18,7 @@
 <p align='center'>Additional card art by Rick Harris, Ruth Thompson and Gary Washington.<br></p>
 <p align='center'>Cards colored by Derek Pearcy, Jeff Koke and Rick Martin.</p>
 
-	Playtesters and Rules Readers: Lots of people, but especially Mike Ford, Monica Stephens, Scott Haring, Jim McCoy, Jim Oldland, Lillian Butler, ORC, and the Online Illuminati...
-Copyright © 1982, 1983, 1987, 1991, 1994, 1995, 2002 by Steve Jackson Games Incorporated. **Illuminati** and the allseeing pyramid are registered trademarks of Steve Jackson Games Incorporated. All rights reserved. The Servants of Cthulhu appear by courtesy of those illuminated folks at Chaosium, Inc., publishers of the **Call of Cthulhu** roleplaying game. This is a work of political and social satire. Any resemblance to real persons, places, events or organizations, living, dead or whatever, other than with satirical intent, is coincidental. Use of trademarks is not intended as a challenge to their ownership or validity.
+	Playtesters and Rules Readers: Lots of people, but especially Mike Ford, Monica Stephens, Scott Haring, Jim McCoy, Jim Oldland, Lillian Butler, ORC, and the Online Illuminati...Copyright © 1982, 1983, 1987, 1991, 1994, 1995, 2002 by Steve Jackson Games Incorporated. **Illuminati** and the allseeing pyramid are registered trademarks of Steve Jackson Games Incorporated. All rights reserved. The Servants of Cthulhu appear by courtesy of those illuminated folks at Chaosium, Inc., publishers of the **Call of Cthulhu** roleplaying game. This is a work of political and social satire. Any resemblance to real persons, places, events or organizations, living, dead or whatever, other than with satirical intent, is coincidental. Use of trademarks is not intended as a challenge to their ownership or validity.
 ### The World Is Stranger Than You Think...
 The World Is Stranger Than You Think...
 Everything that you read in the tabloids is true. The telephone company is
