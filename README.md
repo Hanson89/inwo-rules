@@ -56,3 +56,62 @@ Structures. You can use Plot cards to advance your own position or harass your f
 You may win by controlling enough Groups, or by fulfilling the special goal of
 your own Illuminati, or by meeting the objectives on a Goal card. Or, of course, by
 destroying all of your foes!
+## BASIC RULES
+### Beginning the Game
+(1) Each player must have his own 45-card (including
+your Illuminati) INWO deck. The relative number of
+Plot cards (cards with a hand on the back) and Group
+cards (cards with a puppet on the back) in your deck is
+up to you; typically, a strong deck will have 12-20 Group
+cards and 24-32 Plot cards. Designing a strong deck,
+with cards that enhance each other’s strengths and cover
+for each other’s weaknesses, will help you win.
+<br>(2) Each player divides his cards into a Plot deck and a
+Group deck. The Plot deck will include Plots (cards with
+blue backgrounds or blue title text) and possibly extra
+Illuminati cards (cards with black backgrounds and four
+outgoing control arrows). The Group deck will include
+Groups (cards with red backgrounds or red title text) and
+usually Resources (cards with purple backgrounds or
+purple title text).
+(3) Each player puts his starting Illuminati card on the
+table face down. Once everyone’s Illuminati card is on
+the table, flip them face up. Note: In some games, more
+than one player has the same type of Illuminati... which
+means they represent different factions of the same
+conspiracy (see Duplicate Cards, p. 14).
+(4) Each player shuffles his Plot deck and draws three
+Plot cards for his starting hand. You may look at your
+cards, but you cannot play any of them until the game
+actually begins. These are your first “hidden Plots.”
+(5) Each player selects one Group from his deck as a
+“lead” — the first puppet of his Illuminati. Each player
+puts his lead on the table face down. Once everyone has
+a card on the table, flip them face up. If two or more
+players chose the same lead Group, put the duplicates
+aside. Those players select new lead Groups that do not
+duplicate any that have already been chosen. Continue
+until everyone has a lead Group (or runs out of Groups).
+Each player puts his lead Group on one of his Illuminati
+control arrows (see Control Arrows, p. 6). You may not
+lead with a Resource — it must be a Group!
+(6) Each player shuffles his Group deck and draws six
+Group cards (or the entire deck, whichever is less) for his
+starting hand. Any duplicates that were put aside in the
+previous step are shuffled back into the owner’s deck
+after he draws his starting hand. From now on, you may
+not look at, or trade, any of your undrawn cards — just
+the ones in your hand.
+(7) Each player rolls two dice. The one with the
+highest roll goes first.
+At the beginning of the game, you may not do anything
+to a rival who has not yet completed his first turn! You
+may not interfere with their attacks or target them with
+any card (however, you may play cards that affect all
+players, such as New World Order cards. The abilities of
+your Groups and Resources (even ones that work all the
+time at no cost) do not affect a rival who has not finished
+his first turn.
+Exception: If someone attacks you during his first turn,
+you are free to respond against that player in any way
+you can.
