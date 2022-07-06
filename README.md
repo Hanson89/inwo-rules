@@ -7,7 +7,7 @@
 # inwo-rules
 ![](https://github.com/Hanson89/image_library/blob/main/2022-06-29_233727.png?raw=true)<br><!---->
 ## Acknowledgement
-> :hash:__Game Design by Steve Jackson__
+> :star:__Game Design by Steve Jackson__
 ## Preface
 ### __World Domination Handbook Version 1.2 — January 2002__
 <p align='center'>(Revised from WDH v1.1 by Steve Brinich, with assistance and feedback from the Online Illuminati.)<br></p>
