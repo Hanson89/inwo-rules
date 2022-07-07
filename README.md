@@ -59,7 +59,7 @@ destroying all of your foes!
 ## BASIC RULES
 ### Beginning the Game
 (1) Each player must have his own 45-card (including
-your Illuminati) INWO deck. The relative number of
+your Illuminati) **INWO** deck. The relative number of
 Plot cards (cards with a hand on the back) and Group
 cards (cards with a puppet on the back) in your deck is
 up to you; typically, a strong deck will have 12-20 Group
@@ -114,4 +114,11 @@ time at no cost) do not affect a rival who has not finished
 his first turn.
 Exception: If someone attacks you during his first turn,
 you are free to respond against that player in any way
-you can.
+you can.<br>
+Some Markdown text with <span style="color:blue">some *blue* text</span>
+```diff
+- text in red
++ text in green
+! text in orange
+@@ text in purple (and bold)@@
+```![2021-12-29_005546](https://user-images.githubusercontent.com/78841577/177738472-3c09ba35-3323-4533-887a-7553f85f96b4.png)
