@@ -74,17 +74,17 @@ outgoing control arrows). The Group deck will include
 Groups (cards with red backgrounds or red title text) and
 usually Resources (cards with purple backgrounds or
 purple title text).
-(3) Each player puts his starting Illuminati card on the
+<br>(3) Each player puts his starting Illuminati card on the
 table face down. Once everyone’s Illuminati card is on
 the table, flip them face up. Note: In some games, more
 than one player has the same type of Illuminati... which
 means they represent different factions of the same
 conspiracy (see Duplicate Cards, p. 14).
-(4) Each player shuffles his Plot deck and draws three
+<br>(4) Each player shuffles his Plot deck and draws three
 Plot cards for his starting hand. You may look at your
 cards, but you cannot play any of them until the game
 actually begins. These are your first “hidden Plots.”
-(5) Each player selects one Group from his deck as a
+<br>(5) Each player selects one Group from his deck as a
 “lead” — the first puppet of his Illuminati. Each player
 puts his lead on the table face down. Once everyone has
 a card on the table, flip them face up. If two or more
@@ -95,14 +95,14 @@ until everyone has a lead Group (or runs out of Groups).
 Each player puts his lead Group on one of his Illuminati
 control arrows (see Control Arrows, p. 6). You may not
 lead with a Resource — it must be a Group!
-(6) Each player shuffles his Group deck and draws six
+<br>(6) Each player shuffles his Group deck and draws six
 Group cards (or the entire deck, whichever is less) for his
 starting hand. Any duplicates that were put aside in the
 previous step are shuffled back into the owner’s deck
 after he draws his starting hand. From now on, you may
 not look at, or trade, any of your undrawn cards — just
 the ones in your hand.
-(7) Each player rolls two dice. The one with the
+<br>(7) Each player rolls two dice. The one with the
 highest roll goes first.
 At the beginning of the game, you may not do anything
 to a rival who has not yet completed his first turn! You
