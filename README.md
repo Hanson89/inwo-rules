@@ -4,7 +4,7 @@
 ! text in orange
 @@ text in purple (and bold)@@
 ```-->
-# inwo-rules
+# inwo-rules(&#x1F4D9;)
 ![](https://github.com/Hanson89/image_library/blob/main/2022-06-29_233727.png?raw=true)<br><!---->
 ## Acknowledgement
 > :star:__Game Design by Steve Jackson__
@@ -56,7 +56,9 @@ Structures. You can use Plot cards to advance your own position or harass your f
 You may win by controlling enough Groups, or by fulfilling the special goal of
 your own Illuminati, or by meeting the objectives on a Goal card. Or, of course, by
 destroying all of your foes!
-## BASIC RULES
+```diff
+@@ BASIC RULES@@
+```
 ### Beginning the Game
 (1) Each player must have his own 45-card (including
 your Illuminati) **INWO** deck. The relative number of
@@ -115,10 +117,35 @@ his first turn.
 Exception: If someone attacks you during his first turn,
 you are free to respond against that player in any way
 you can.<br>
-Some Markdown text with <span style="color:blue">some *blue* text</span>
-```diff
-- text in red
-+ text in green
-! text in orange
-@@ text in purple (and bold)@@
-```![2021-12-29_005546](https://user-images.githubusercontent.com/78841577/177738472-3c09ba35-3323-4533-887a-7553f85f96b4.png)
+![2021-12-29_005546](https://user-images.githubusercontent.com/78841577/177738472-3c09ba35-3323-4533-887a-7553f85f96b4.png)
+### Turn Sequence
+Each turn has the following steps:
+### *Beginning of Turn*
+During this portion of your turn, you may only use
+Action tokens to buy Plot cards, to power Plots or special
+abilities that directly affect one of the Beginning of Turn
+phases listed below, or in response to some other Plot,
+special ability, or action. Plots and special abilities that
+do not require an Action token are not affected by this
+restriction.
++ (1) Draw the top card from your Plot deck, if you
+wish. At the same time, you may exchange Action
+tokens on your Groups for additional Plot card draws
+(see “Any Time” Moves, p. 3).
++ (2) Draw the top card from your Group deck, if you
+wish.
++ (3) Make one automatic takeover, if you wish. Choose
+any Group or Resource from your hand. You bring it into
+play automatically — no die roll is required.
+If you choose a Group, place it so its incoming control
+arrow aligns with an outgoing control arrow in your
+Power Structure, without overlapping any other Group
+(see Control Arrows, p. 6). You may not duplicate a
+Group already in play unless a card specifically allows it.
+If you choose a Resource, put it beside your Power
+Structure. You may not duplicate a Unique Resource
+already in play unless a card specifically allows it.
++ (4) Place an Action token on each of your Groups that
+doesn’t already have one (see Action Tokens, p. 3). Some
+Resources (the ones that have the word “Action” at the
+bottom) also get Action tokens.
