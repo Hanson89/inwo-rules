@@ -128,13 +128,13 @@ phases listed below, or in response to some other Plot,
 special ability, or action. Plots and special abilities that
 do not require an Action token are not affected by this
 restriction.
-+ (1) Draw the top card from your Plot deck, if you
+    * (1) Draw the top card from your Plot deck, if you
 wish. At the same time, you may exchange Action
 tokens on your Groups for additional Plot card draws
 (see “Any Time” Moves, p. 3).
-+ (2) Draw the top card from your Group deck, if you
+    * (2) Draw the top card from your Group deck, if you
 wish.
-+ (3) Make one automatic takeover, if you wish. Choose
+    * (3) Make one automatic takeover, if you wish. Choose
 any Group or Resource from your hand. You bring it into
 play automatically — no die roll is required.
 If you choose a Group, place it so its incoming control
@@ -149,3 +149,106 @@ already in play unless a card specifically allows it.
 doesn’t already have one (see Action Tokens, p. 3). Some
 Resources (the ones that have the word “Action” at the
 bottom) also get Action tokens.
+### *Main Phase*
++ (5) Attempt attacks or other Main Phase actions.
+During the Main Phase of your turn, you may perform
+these actions as many times as you like (except the ones
+that say “once per turn”), in any order:
+++ • Attack to control or destroy a Group: This uses an
+action from the attacking Group. (See Attacks, p. 7)
+++ • Move a Group to a different control arrow: You
+may spend an action to move a Group during the Main
+Phase of your own turn. A Group can be moved to
+another player’s Power Structure during the Main Phase
+of either player’s turn, if both players agree and one of
+them pays the Action token cost. (See Moving Groups,
+p. 12)
+++ • Create or move links: Some special abilities work
+with specific “linked” cards. (See Links, p. 14)
+++ • Give or trade away a Resource you have in play:
+You may give a rival one of your Resources during the
+Main Phase of either of your turns, as long as you have
+not used the Resource earlier in the turn. The Resource
+is then linked to the recipient’s Illuminati; he can re-link
+it during the Main Phase of his turn. (See Gifts and
+Trades, p. 12)
+<br>• Play a Resource: Once per turn, you may spend an
+Illuminati action to bring a Resource from your hand
+into play.
+<br>• Trade an Illuminati action for a Group card: Once
+per turn, you may spend an Illuminati action to draw a
+Group card from your deck.
+deck.
+End of Turn
+(6) Use Plots or special abilities that happen “at the
+end of your turn” (such as the Bermuda Triangle’s
+special ability).
+(7) Knock. Rap on the table to alert the other players
+that you’re finished. An evil laugh is appropriate here.
+At this time, any player(s) (including the one who just
+knocked) who has achieved one of his Goals may declare
+victory. If someone declares victory, any player may use
+Plots or special abilities to thwart or secure the victory.
+Action tokens may be used to buy more Plot cards or to
+power Plots and special abilities. However, nobody can
+make an attack (it’s not the Main Phase of anybody’s
+turn) unless a Plot or special ability allows it.
+If one player declares victory and is not thwarted, he
+wins! If two or more players declare victory and are not
+thwarted, they share a victory... unless they are factions
+of the same Illuminati (see Winning the Game, p. 16).
+If no one wins, the current turn ends and the next
+player to the left starts his turn. Play continues
+counterclockwise until a player or coalition of players
+wins.
+Note: If any Plot or special ability says that your turn
+ends “immediately,” skip the rest of the turn sequence —
+the current turn ends and the next player starts his turn.
+Yes, this means that no one can win during the turn that
+was cut short!
+“Any Time” Moves
+You may do the following things during any part of
+your turn, or even during somebody else’s turn, unless a
+rule or card text prevents it:
+• Trade Action tokens for Plot cards: At any time, you
+may exchange one Action token from your Illuminati or
+two Action tokens from your other Groups for one Plot
+card drawn from your deck. This does not count as an
+“action” by the Group(s) that provide the tokens, and
+your rivals cannot use action-canceling Plots or abilities
+to prevent it.
+• Use a special ability of one of your Groups or
+Resources: Some abilities can be used at any time;
+others are limited to certain times or circumstances.
+Read the card text to see how its special ability works,
+when you may use it, and what costs (actions, discards,
+etc) you must pay.
+• Play a Plot card: As with special abilities, read the
+card text to see how the Plot works, when you may use
+it, and what costs you must pay.
+• Discard any card from your hand or return a Plot
+card to your deck: You may voluntarily get rid of cards.
+If you have too many Plot cards (see Limits on Plot
+Cards, p. 5) or Goals (see Winning the Game, p. 16) in
+your hand, you must immediately get rid of the excess.
+(See Discards, p. 4 and Returning Plots to Your Deck,
+p. 5)
+• Give away or trade cards from your hand: You can
+give gifts or make trades as part of your negotiation
+strategy. (See Gifts and Trades, p. 12)
+• Aid or oppose an attack: Whenever a player (you or
+somebody else) makes an attack, you may aid or oppose
+it unless something prevents you from getting involved,
+such as Privilege. (See Aiding or Opposing Attacks,
+p. 8)
+It’s usually wise to avoid using up all your Plots and
+Action tokens during your turn, so you’ll have some
+available to defend yourself or meddle with your rivals’
+plans. If you don’t use up your Action tokens before
+your turn comes around again, you can trade them in for
+Plot cards just before you get new Action tokens (but
+keep in mind that you may be vulnerable to certain
+attacks, such as the Giant Kudzu...)
+```diff
+@@ BASIC RULES@@
+```
