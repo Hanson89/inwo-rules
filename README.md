@@ -68,7 +68,7 @@ up to you; typically, a strong deck will have 12-20 Group
 cards and 24-32 Plot cards. Designing a strong deck,
 with cards that enhance each other’s strengths and cover
 for each other’s weaknesses, will help you win.
-<br>(2) Each player divides his cards into a Plot deck and a
+<br><br>(2) Each player divides his cards into a Plot deck and a
 Group deck. The Plot deck will include Plots (cards with
 blue backgrounds or blue title text) and possibly extra
 Illuminati cards (cards with black backgrounds and four
@@ -76,17 +76,17 @@ outgoing control arrows). The Group deck will include
 Groups (cards with red backgrounds or red title text) and
 usually Resources (cards with purple backgrounds or
 purple title text).
-<br>(3) Each player puts his starting Illuminati card on the
+<br><br>(3) Each player puts his starting Illuminati card on the
 table face down. Once everyone’s Illuminati card is on
 the table, flip them face up. Note: In some games, more
 than one player has the same type of Illuminati... which
 means they represent different factions of the same
 conspiracy (see Duplicate Cards, p. 14).
-<br>(4) Each player shuffles his Plot deck and draws three
+<br><br>(4) Each player shuffles his Plot deck and draws three
 Plot cards for his starting hand. You may look at your
 cards, but you cannot play any of them until the game
 actually begins. These are your first “hidden Plots.”
-<br>(5) Each player selects one Group from his deck as a
+<br><br>(5) Each player selects one Group from his deck as a
 “lead” — the first puppet of his Illuminati. Each player
 puts his lead on the table face down. Once everyone has
 a card on the table, flip them face up. If two or more
@@ -97,14 +97,14 @@ until everyone has a lead Group (or runs out of Groups).
 Each player puts his lead Group on one of his Illuminati
 control arrows (see Control Arrows, p. 6). You may not
 lead with a Resource — it must be a Group!
-<br>(6) Each player shuffles his Group deck and draws six
+<br><br>(6) Each player shuffles his Group deck and draws six
 Group cards (or the entire deck, whichever is less) for his
 starting hand. Any duplicates that were put aside in the
 previous step are shuffled back into the owner’s deck
 after he draws his starting hand. From now on, you may
 not look at, or trade, any of your undrawn cards — just
 the ones in your hand.
-<br>(7) Each player rolls two dice. The one with the
+<br><br>(7) Each player rolls two dice. The one with the
 highest roll goes first.
 At the beginning of the game, you may not do anything
 to a rival who has not yet completed his first turn! You
@@ -116,7 +116,7 @@ time at no cost) do not affect a rival who has not finished
 his first turn.
 Exception: If someone attacks you during his first turn,
 you are free to respond against that player in any way
-you can.<br>
+you can.<br><br>
 ![2021-12-29_005546](https://user-images.githubusercontent.com/78841577/177738472-3c09ba35-3323-4533-887a-7553f85f96b4.png)
 ### Turn Sequence
 Each turn has the following steps:
@@ -178,7 +178,6 @@ into play.
 	- Trade an Illuminati action for a Group card: Once
 per turn, you may spend an Illuminati action to draw a
 Group card from your deck.
-deck.
 ### *End of Turn*
 - (6) Use Plots or special abilities that happen “at the
 end of your turn” (such as the Bermuda Triangle’s
@@ -242,8 +241,38 @@ it unless something prevents you from getting involved,
 such as Privilege. (See Aiding or Opposing Attacks,
 p. 8)
 
-	It’s usually wise to avoid using up all your Plots and Action tokens during your turn, so you’ll have some available to defend yourself or meddle with your rivals’ plans. If you don’t use up your Action tokens before your turn comes around again, you can trade them in for Plot cards just before you get new Action tokens (but keep in mind that you may be vulnerable to certain attacks, such as the Giant Kudzu...)
+```It’s usually wise to avoid using up all your Plots and Action tokens during your turn, so you’ll have some available to defend yourself or meddle with your rivals’ plans. If you don’t use up your Action tokens before your turn comes around again, you can trade them in for Plot cards just before you get new Action tokens (but keep in mind that you may be vulnerable to certain attacks, such as the Giant Kudzu...)```
 
 ```diff
-@@ BASIC RULES@@
+@@ ACTION TOKENS@@
 ```
+	Each of your Groups that has no Action token gets one at the beginning of your turn. Some Plots and special abilities allow a Group to get extra Action tokens, or to get another Action token even though it already has one. Some Resources (the ones that say “Action” on the bottom) also get Action tokens. These Action tokens are replenished just like the ones on Groups (i.e. one for each of these Resources that doesn’t already have one). Note that Action tokens from Resources cannot be exchanged for Plot cards. A Group cannot get Action tokens if its Power is reduced to 0 (however, Groups that start with printed Power 0 get Action tokens normally). A Group spends an Action token when it makes an attack or when it aids or opposes another Group’s attack. In some cases, a Group or Resource spends an Action token when it uses a special ability or powers a Plot card — follow the instructions on the cards. Thus, a Group can only do one of these things each turn, unless it somehow gets an extra Action token. You may remove an Action token from a Group or Resource you control, if for some reason you want to.
+### Illuminati Action Tokens
+The Action token(s) on your Illuminati are especially
+useful, even aside from their raw Power. Spend them
+wisely. There are some powerful Plots and special
+abilities that require an Illuminati action to use. During
+the Main Phase of your turn, an Illuminati action can
+allow you to take over a Resource or draw an extra
+Group card.
+```diff
+@@ POWER STRUCTURES@@
+```
+As play develops, your holdings might look like this:
+$$\swarrow$$\
+![](https://github.com/Hanson89/image_library/blob/main/2022-06-29_233841.png?raw=true)
+<br>
+Your Illuminati card (1) is in front of you. Connected
+to it are the Groups that make up the rest of your Power
+Structure (2). Beside it are your Resources (3) and any
+exposed Plots, face up (4). Your Plot and Group decks
+(5, 6) are ready for your next draws. Your discards are
+off to the side, face up.
+You will also be holding a hand of Group, Resource,
+and Plot cards. Some of the Plot cards may be “exposed”
+and face-up on the table in front of you.
+Once a Group is in your Power Structure, it stays until
+something removes it. You may not simply discard it
+(for instance, you cannot dump Peaceful Groups to
+prevent Shangri-La from winning).
+### In play vs. Just Played
