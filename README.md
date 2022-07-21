@@ -276,4 +276,4 @@ something removes it. You may not simply discard it
 (for instance, you cannot dump Peaceful Groups to
 prevent Shangri-La from winning).
 ### In play vs. Just Played
-# 规则原文图片+进度（%50）
+<!--# 规则原文图片+进度（%50）-->
