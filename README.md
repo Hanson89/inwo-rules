@@ -277,3 +277,19 @@ something removes it. You may not simply discard it
 prevent Shangri-La from winning).
 ### In play vs. Just Played
 <!--# 规则原文图片+进度（%50）-->
+A Group or Resource is “in play” if it is controlled by
+a player. A Plot is “in play” if it is left on the table to
+mark an ongoing effect, such as a New World Order
+(p. 13), or is linked to some Group or Resource in play.
+While a player attempts to control a Group from his
+hand, the Group he just played is not considered to be in
+play until he successfully takes control of it. Plots and
+special abilities that affect Groups “in play” do not affect
+Groups that were just played from the owner’s hand.
+However, other players may interfere in the owner’s
+attack to control the just-played Group (see Aiding or
+Opposing Attacks, p. 8).
+Note that if the owner fails to control a Group played
+from his hand and discards it, that Group was never in
+play. Another copy of that Group card may be played
+later by any player.
