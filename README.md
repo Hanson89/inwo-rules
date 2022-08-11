@@ -277,7 +277,7 @@ something removes it. You may not simply discard it
 prevent Shangri-La from winning).
 ### In play vs. Just Played
 ---
-# 规则原文图片+进度（%50）
+<!--# 规则原文图片+进度（%50）-->
 ---
 A Group or Resource is “in play” if it is controlled by
 a player. A Plot is “in play” if it is left on the table to
@@ -301,6 +301,85 @@ later by any player.
 > There are three basic types of cards in INWO: Plots,
 Groups, and Resources. Illuminati are a special kind of
 Group.
+
 > Many cards allow exceptions to the usual rules! The
 instructions on a card always take precedence over this
 rulebook, except for the Meta-Rules (p. 17). See the Glossary (p. 18) for a list of terms used in defining the effects of various cards.
+
+>> 
+### Discard
+<!-- >> -->
+>>Discarded cards go face-up (unless a card says to
+discard cards face-down or without looking at them).
+Other players may have the ability to “scavenge” from
+your discards (including face-down ones).
+When a card is discarded, it is permanently removed
+from play unless a Plot or special ability is immediately
+used to recover it.
+You may discard any card in your hand at any time,
+except in the middle of a multiple-card draw or
+immediately after someone attempts to look at or steal
+your cards.
+### Plot Cards
+Plot cards represent Illuminated plots... the secret
+maneuvers and dirty tricks used in world domination.
+When a Plot card is played, it is kept on the table for
+the duration of its effect and then discarded. For
+instance, Plot cards that affect an attack are discarded
+after the attack is resolved. Linked Plots (p. 14) and New
+World Order cards (p. 13) remain on the table
+indefinitely, unless something removes them from play.
+Some Plots can be used at any time; others can only be
+used at certain times or in response to certain events.
+Some Plots work automatically; others require a die roll.
+Some require you to spend Action tokens or discard
+cards; others are free. Follow the directions on the card.
+You may not play a Plot card immediately after
+someone attempts to look at or steal your Plot cards just
+to get it out of reach. However, you may play a Plot card
+to counter the attempt.
+Unless the card says otherwise, all costs to play a Plot
+card must be provided by the player who used it.
+*How to Get Plot Cards*
+>> At the beginning of your turn, you may draw a Plot
+card from the top of your deck. At any time, you may
+draw additional Plot cards by exchanging one Illuminati
+Action token or two Action tokens from other Groups for
+each Plot draw.
+Some Plots and special abilities let you draw more
+cards, choose cards from out of your Plot deck, or steal
+cards from rivals. You are never required to draw cards,
+and there is no penalty for running out of cards in your
+deck.
+*Types of Plots*
+>> Most Plots are one of a kind — read the card and
+follow the instructions. Some Plots fall into special
+families:
+>>> +10 Plots: A Plot which gives a Group a +10 Power
+or Resistance bonus may be used either to boost the
+Power of the Group’s action or to defend the Group
+against an attack. If used to boost an action, the +10
+bonus lasts only until that action is resolved. If used for
+defense, the +10 bonus lasts until the end of the turn and counts only for defense. In either case, the +10 bonus
+does not count for any Goal.
+>>> Attribute Freeze: An Attribute Freeze can be used to
+prevent all Groups with a certain attribute from acting
+(except to defend itself against an attack) for the rest of
+the turn, or to cancel a single action by a Group with
+that attribute.
+>>> Paralyze: A paralyzed Group cannot spend Action
+tokens and cannot use any special ability or linked
+Resource (even ones that normally work all the time at
+no cost). Control of a paralyzed Group does not count
+for any Goal. Puppets of a paralyzed Group are not
+affected; however, the paralyzed Group cannot be given
+any new puppets.
+>>> Power Increase: A Power-increasing Plot is linked to
+a Group of a certain type to increase its Power to the
+value stated on the card. They have no effect on a
+Group that already has Power greater than or equal to
+the stated value.
+>>> Zap: A Zap produces its effect on an entire Power
+Structure until it is removed. Any player may spend an
+Illuminati action at any time to remove all Zaps from
+one player (himself or somebody else).
