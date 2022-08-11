@@ -438,25 +438,9 @@ This applies only to Plot cards — you may not return
 Group or Resource cards to your deck.
 
 ### Group Cards
-	Groups are the cards that make up your Power
-	Structure. Typically, a Group card represents the
-	leadership of the group, or the secret cabal that controls
-	it. For instance, the Dentists card does not represent all
-	dentists... just the secret leaders of the dentists’
-	conspiracy.
-	
-	The Group’s name (1) is
-	at the top. The main text
-	box (2) describes the Group
-	and its special abilities. The
-	large numbers near the
-	bottom are its Power (3a)
-	and Resistance (3b). At the
-	bottom left are its
-	Alignments (4), if any. At
-	the bottom right are its
-	Attributes (5), if any. At the
-	edges are its control arrows (6).
+	Groups are the cards that make up your Power Structure. Typically, a Group card represents the leadership of the group, or the secret cabal that controls it. For instance, the Dentists card does not represent all dentists... just the secret leaders of the dentists’ conspiracy.
+---
+	The Group’s name (1) is at the top. The main text box (2) describes the Group and its special abilities. The large numbers near the bottom are its Power (3a) and Resistance (3b). At the bottom left are its Alignments (4), if any. At the bottom right are its Attributes (5), if any. At the edges are its control arrows (6).
 
 ![group card example: FBI](https://github.com/Hanson89/image_library/blob/main/2022-06-30_000214.png)
 
