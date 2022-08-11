@@ -355,6 +355,7 @@ deck.
 >> Most Plots are one of a kind — read the card and
 follow the instructions. Some Plots fall into special
 families:
+
 >>> +10 Plots: A Plot which gives a Group a +10 Power
 or Resistance bonus may be used either to boost the
 Power of the Group’s action or to defend the Group
@@ -362,11 +363,13 @@ against an attack. If used to boost an action, the +10
 bonus lasts only until that action is resolved. If used for
 defense, the +10 bonus lasts until the end of the turn and counts only for defense. In either case, the +10 bonus
 does not count for any Goal.
+
 >>> Attribute Freeze: An Attribute Freeze can be used to
 prevent all Groups with a certain attribute from acting
 (except to defend itself against an attack) for the rest of
 the turn, or to cancel a single action by a Group with
 that attribute.
+
 >>> Paralyze: A paralyzed Group cannot spend Action
 tokens and cannot use any special ability or linked
 Resource (even ones that normally work all the time at
@@ -374,12 +377,87 @@ no cost). Control of a paralyzed Group does not count
 for any Goal. Puppets of a paralyzed Group are not
 affected; however, the paralyzed Group cannot be given
 any new puppets.
+
 >>> Power Increase: A Power-increasing Plot is linked to
 a Group of a certain type to increase its Power to the
 value stated on the card. They have no effect on a
 Group that already has Power greater than or equal to
 the stated value.
+
 >>> Zap: A Zap produces its effect on an entire Power
 Structure until it is removed. Any player may spend an
 Illuminati action at any time to remove all Zaps from
 one player (himself or somebody else).
+
+*Hidden and Exposed Plots*
+
+When you draw a Plot card, it normally goes into your
+hand, hidden from your rivals. However, some Plots and
+special abilities cause Plot cards to become exposed.
+This reveals them to all your rivals, and also makes them
+vulnerable to certain Plots or special abilities that allow
+rivals to steal or discard them!<br><br>
+You may voluntarily expose your Plot cards, if for
+some reason you want to.<br><br>
+When one of your Plots is exposed, turn it face-up in
+front of you. It stays exposed until it’s played, returned
+to your deck, stolen, discarded, or hidden again using a
+Plot or special ability.<br><br>
+You may show a hidden Plot to individual rivals, and
+then keep it hidden. They can tell others what they saw,
+of course. Or they can lie.<br><br>
+You must always show how many hidden Plots you
+have, if someone asks.<br><br>
+*Limits on Plot Cards*
+- When it is not your turn, you may hold up to 5 Plot
+cards in your hand. Both hidden and exposed Plots count
+against your limit. Some cards increase this limit or let
+you hold Plot cards without counting them against this
+limit. If you have too many Plot cards in your hand, you
+must immediately get rid of the excess by playing them,
+giving or trading them away, discarding them, or
+returning them to your deck!
+- Note that some Plot cards stay on the table when
+played, as a marker for a continuing effect. After you’ve
+played them, they are no longer in your hand and do not
+count against your limit.
+- This limit applies only to Plot cards and only when it is not your turn. You may hold any number of Plot cards during your turn, and you may hold any number of
+Group and Resource cards at any time.
+
+*Returning Plots to Your Deck*
+You may return a Plot to your deck if you have too
+many in your hand (or if you just want to get it out of
+your hand). You can put it on the top, the bottom, or
+anywhere in the middle, depending on how soon you
+plan to draw it again!
+You may do this at any time, except in the middle of a
+multiple-card draw or immediately after someone uses a
+Plot or ability that lets them see or steal Plots from either
+your hand or your deck.
+This applies only to Plot cards — you may not return
+Group or Resource cards to your deck.
+
+### Group Cards
+	Groups are the cards that make up your Power
+	Structure. Typically, a Group card represents the
+	leadership of the group, or the secret cabal that controls
+	it. For instance, the Dentists card does not represent all
+	dentists... just the secret leaders of the dentists’
+	conspiracy.
+	
+	The Group’s name (1) is
+	at the top. The main text
+	box (2) describes the Group
+	and its special abilities. The
+	large numbers near the
+	bottom are its Power (3a)
+	and Resistance (3b). At the
+	bottom left are its
+	Alignments (4), if any. At
+	the bottom right are its
+	Attributes (5), if any. At the
+	edges are its control arrows (6).
+
+![group card example: FBI](https://github.com/Hanson89/image_library/blob/main/2022-06-30_000214.png)
+
+
