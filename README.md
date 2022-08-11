@@ -276,7 +276,9 @@ something removes it. You may not simply discard it
 (for instance, you cannot dump Peaceful Groups to
 prevent Shangri-La from winning).
 ### In play vs. Just Played
-<!--# 规则原文图片+进度（%50）-->
+---
+# 规则原文图片+进度（%50）
+---
 A Group or Resource is “in play” if it is controlled by
 a player. A Plot is “in play” if it is left on the table to
 mark an ongoing effect, such as a New World Order
@@ -293,3 +295,12 @@ Note that if the owner fails to control a Group played
 from his hand and discards it, that Group was never in
 play. Another copy of that Group card may be played
 later by any player.
+```diff
+@@ THE CARDS@@
+```
+> There are three basic types of cards in INWO: Plots,
+Groups, and Resources. Illuminati are a special kind of
+Group.
+> Many cards allow exceptions to the usual rules! The
+instructions on a card always take precedence over this
+rulebook, except for the Meta-Rules (p. 17). See the Glossary (p. 18) for a list of terms used in defining the effects of various cards.
